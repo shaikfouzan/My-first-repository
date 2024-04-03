@@ -1,6 +1,6 @@
 # My-first-repository
 
-## [Your Name]
+## [Shaik Fouzan Uddin]
 ![Header](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## Hi there 👋
